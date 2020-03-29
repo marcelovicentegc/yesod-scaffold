@@ -9,6 +9,7 @@ import Foundation
 import Yesod.Core
 
 import Add
+import Subtract
 import Home
 
 mkYesodDispatch "App" resourcesApp

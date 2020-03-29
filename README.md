@@ -6,7 +6,7 @@
 2. Build the project: `stack build`
 3. Run the app: `stack exec YesodScaffold`
 
---
+---
 
 > _Note: This project was generated from the `yesod-minimal` scaffolding, and does not support features like `yesod devel`. If you want these features, use the `yesod-simple` stack template._
 
